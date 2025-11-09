@@ -402,4 +402,4 @@ MIT License
 
 ---
 
-**Developed for Afrifounders Startup Studio - Laravel Developer Assessment**
+**Developed by holyprof for Afrifounders Startup Studio - Laravel Developer Assessment**
